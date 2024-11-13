@@ -33,6 +33,7 @@ app/CoreFacturalo/Templates/pdf/personalizada*
 public/templates/pdf/personalizada*
 supervisor.conf
 report.*
+docker-compose.yml
 
 
 
